@@ -1,1 +1,1 @@
-# Django-Voting-Web-App
+# Voting Web App using Django 
